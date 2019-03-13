@@ -1,2 +1,689 @@
-1.2.3.04.05.06.Informacion de Ejemplo
-/1.2.3.04.05.06.Informacion de ejemplo 2
+1.2.5.02.00.00.DEPÓSITOS OTORGADOS EN GARANTÍA A MEDIANO Y LARGO PLAZO
+/1.2.5.09.00.00.OTROS ACTIVOS DIFERIDOS A MEDIANO Y LARGO PLAZO
+1.2.5.99.00.00.OTROS ACTIVOS DIFERIDOS A MEDIANO Y LARGO PLAZO
+1.2.9.00.00.00.OTROS ACTIVOS NO CORRIENTES
+1.2.9.01.00.00.ACTIVOS EN PROCESO JUDICIAL
+1.2.9.01.01.00.Activos en gestión judicial a mediano y largo plazo
+1.2.9.01.02.00.Tí tulos y otros valores de la deuda pública en litigio a largo plazo
+/1.2.9.09.00.00.ACTIVOS NO CIRCULANTES DIVERSOS A MEDIANO Y LARGO PLAZO
+1.2.9.99.00.00.ACTIVOS NO CORRIENTES DIVERSOS A MEDIANO Y LARGO PLAZO
+2.0.0.00.00.00.PASIVO
+2.1.0.00.00.00.PASIVO CORRIENTE
+2.1.1.00.00.00.CUENTAS Y EFECTOS POR PAGAR A CORTO PLAZO
+2.1.1.01.00.00.GASTOS DE PERSONAL POR PAGAR
+2.1.1.01.01.00.Sueldos, salarios y otras remuneraciones por pagar
+2.1.1.01.02.00.Complementos de sueldos y salarios por pagar
+2.1.1.01.03.00.Asistencia socio económica por pagar
+2.1.1.01.04.00.Prestaciones sociales e indemnizaciones por pagar
+2.1.1.01.05.00.Capacitación y adiestramiento por pagar
+/2.1.1.01.09.00.Otros gastos de personal por pagar
+2.1.1.01.99.00.Otros gastos de personal por pagar
+2.1.1.02.00.00.APORTES PATRONALES Y LEGALES POR PAGAR
+2.1.1.02.01.00.Aportes patronales y legales por pagar al Instituto Venezolano de los Seguros Sociales (IVSS)
+2.1.1.02.02.00.Aportes patronales por pagar al Instituto de Previsión y Asistencia Social del Ministerio de Educación (IPASME)
+2.1.1.02.03.00.Aportes patronales por pagar al Fondo de Jubilaciones
+2.1.1.02.04.00.Aportes patronales por pagar al Fondo de Seguro de Paro Forzoso
+2.1.1.02.05.00.Aportes patronales por pagar al Fondo de Ahorro Obligatorio para la Vivienda (FAOV)
+2.1.1.02.06.00.Aportes a los servicios de salud, accidentes personales y Gastos Funerarios
+2.1.1.02.07.00.Aportes patronales por pagar a cajas de ahorro
+2.1.1.02.08.00.Aportes patronales por pagar a los organismos de seguridad social
+2.1.1.02.09.00.Aportes patronales por pagar al Instituto Nacional de Capacitación y Educación Socialista (INCES)
+/2.1.1.02.10.00.Retenciones laborales por pagar al Instituto Nacional de Cooperación Educativa (INCE)
+/2.1.1.02.11.00.Retenciones laborales por pagar por pensión alimenticia
+/2.1.1.02.19.00.Otras retenciones laborales por pagar
+2.1.1.02.99.00.Otros aportes legales por pagar
+2.1.1.03.00.00.RETENCIONES LABORALES POR PAGAR
+2.1.1.03.01.00.Retenciones laborales por pagar al Instituto Venezolano de los Seguros Sociales (IVSS)
+2.1.1.03.02.00.Retenciones laborales por pagar al Instituto de Previsión y Asistencia Social del Ministerio de Educación (IPASME)
+2.1.1.03.03.00.Retenciones laborales por pagar al Fondo de Jubilaciones
+2.1.1.03.04.00.Retenciones laborales por pagar al Fondo de Seguro de Paro Forzoso
+2.1.1.03.05.00.Retenciones laborales por pagar al Fondo de Ahorro Obligatorio para la Vivienda (FAOV)
+2.1.1.03.06.00.Retenciones laborales por pagar por servicios de salud, accidentes personales y Gastos Funerarios
+2.1.1.03.07.00.Retenciones laborales por pagar a cajas de ahorro
+2.1.1.03.08.00.Retenciones laborales por pagar al Instituto Nacional de Capacitación y Educación Socialista (INCES)
+2.1.1.03.09.00.Retenciones laborales por pagar por pensión alimenticia
+2.1.1.03.99.00.Otras retenciones laborales por pagar
+2.1.1.04.00.00.CUENTAS POR PAGAR A CORTO PLAZO
+2.1.1.04.01.00.Cuentas por pagar a proveedores a corto plazo
+2.1.1.04.02.00.Cuentas por pagar a contratistas a corto plazo
+2.1.1.04.03.00.Obligaciones de ejercicios anteriores
+2.1.1.04.99.00.Otras cuentas por pagar a corto plazo
+2.1.1.05.00.00.EFECTOS POR PAGAR A CORTO PLAZO
+2.1.1.05.01.00.Efectos por pagar a proveedores a corto plazo
+2.1.1.05.02.00.Efectos por pagar a contratistas a corto plazo
+2.1.1.05.99.00.Otros efectos por pagar a corto plazo
+2.1.1.06.00.00.INTERESES POR PAGAR A CORTO PLAZO
+2.1.1.06.01.00.Intereses internos por pagar a corto plazo
+2.1.1.06.02.00.Intereses externos por pagar a corto plazo
+2.1.2.00.00.00.DEUDA PÚBLICA A CORTO PLAZO
+2.1.2.01.00.00.DEUDA PUBLICA INTERNA POR TÍTULOS Y VALORES A CORTO PLAZO
+2.1.2.01.01.00.Bonos y otros valores de la deuda pública interna a corto plazo
+2.1.2.01.02.00.Letras del Tesoro a corto plazo
+2.1.2.02.00.00.DEUDA PUBLICA INTERNA POR PRÉSTAMOS POR PAGAR A CORTO PLAZO
+2.1.2.02.01.00.Deuda interna por préstamos recibidos del sector privado por pagar a corto plazo
+2.1.2.02.02.00.Deuda interna por préstamos recibidos de la República por pagar a corto plazo
+2.1.2.02.03.00.Deuda interna por préstamos recibidos de entes descentralizados sin fines empresariales por pagar a corto plazo
+2.1.2.02.04.00.Deuda interna por préstamos recibidos de instituciones de protección social por pagar a corto plazo
+2.1.2.02.05.00.Deuda interna por préstamos recibidos de entes descentralizados con fines empresariales petroleros por pagar a corto plazo
+2.1.2.02.06.00.Deuda interna por préstamos recibidos de entes descentralizados con fines empresariales no petroleros por pagar a corto plazo
+2.1.2.02.07.00.Deuda interna por préstamos recibidos de entes descentralizados financieros bancarios por pagar a corto plazo
+2.1.2.02.08.00.Deuda interna por préstamos recibidos de entes descentralizados financieros no bancarios por pagar a corto plazo
+2.1.2.02.09.00.Deuda interna por préstamos recibidos del Poder Estadal por pagar a corto plazo
+2.1.2.02.10.00.Deuda interna por préstamos recibidos del Poder Municipal por pagar a corto plazo
+2.1.2.03.00.00.DEUDA PUBLICA EXTERNA POR TÍTULOS Y VALORES A CORTO PLAZO
+2.1.2.03.01.00.Tí tulos y valores de la deuda pública externa a corto plazo
+2.1.2.04.00.00.DEUDA PUBLICA EXTERNA POR PRÉSTAMOS POR PAGAR A CORTO PLAZO
+2.1.2.04.01.00.Deuda externa por préstamos recibidos de gobiernos extranjeros por pagar a corto plazo
+2.1.2.04.02.00.Deuda externa por préstamos recibidos de organismos internacionales por pagar a corto plazo
+2.1.2.04.03.00.Deuda externa por préstamos recibidos de instituciones financieras externas por pagar a corto plazo
+2.1.2.04.04.00.Deuda externa por préstamos recibidos de proveedores de bienes y servicios externos por pagar a corto plazo
+2.1.2.05.00.00.OBLIGACIONES DE EJERCICIOS ANTERIORES DERIVADAS DE DEUDA PÚBLICA
+2.1.2.09.00.00.DEUDA PÚBLICA A CORTO PLAZO POR DISTRIBUIR
+2.1.2.09.01.00.Deuda pública interna a corto plazo por distribuir
+2.1.2.09.02.00.Deuda pública externa a corto plazo por distribuir
+2.1.3.00.00.00.PASIVOS DIFERIDOS
+2.1.3.01.00.00.PASIVOS DIFERIDOS A CORTO PLAZO
+/2.1.3.01.01.00.Rentas diferidas por recaudar a corto plazo
+2.1.4.00.00.00.FONDOS DE TERCEROS
+2.1.4.01.00.00.DEPÓSITOS RECIBIDOS EN GARANTÍA
+/2.1.4.09.00.00.OTROS FONDOS DE TERCEROS
+2.1.4.99.00.00.OTROS FONDOS DE TERCEROS
+2.1.4.99.01.00.Retenciones de impuestos
+2.1.4.99.01.01.Retenciones por pagar por concepto de impuesto sobre la renta
+2.1.4.99.01.02.Retenciones por pagar por concepto de impuesto al valor agregado
+2.1.4.99.01.03.Retenciones por pagar por concepto de impuesto al uno por mil (1x1000)
+2.1.4.99.01.99.Otras retenciones de impuesto por pagar
+2.1.4.99.02.00.Retenciones contractuales
+2.1.4.99.02.01.Retenciones efectuadas a proveedores pendientes de devolución
+2.1.4.99.02.02.Retenciones efectuadas a contratistas pendientes de devolución
+2.1.4.99.03.00.Retenciones al personal jubilado
+2.1.4.99.03.01.Retenciones efectuadas al personal jubilado por pagar por servicios de salud, accidentes personales y gastos funerarios
+2.1.4.99.03.02.Retenciones efectuadas al personal jubilado por pagar a cajas de ahorro
+2.1.4.99.03.99.Otras retenciones efectuadas al personal jubilado por pagar a sus legítimos beneficiarios
+2.1.9.00.00.00.OTROS PASIVOS CORRIENTES
+/2.1.9.09.00.00.OTROS PASIVOS CIRCULANTES
+2.1.9.99.00.00.OTROS PASIVOS CORRIENTES
+2.2.0.00.00.00.PASIVO NO CORRIENTE
+2.2.1.00.00.00.CUENTAS Y EFECTOS POR PAGAR A MEDIANO Y LARGO PLAZO
+2.2.1.01.00.00.CUENTAS POR PAGAR A MEDIANO Y LARGO PLAZO
+2.2.1.01.01.00.Cuentas por pagar a proveedores a mediano y largo plazo
+2.2.1.01.02.00.Cuentas por pagar a contratistas a mediano y largo plazo
+2.2.1.02.00.00.EFECTOS POR PAGAR A MEDIANO Y LARGO PLAZO
+2.2.1.02.01.00.Efectos por pagar a proveedores a mediano y largo plazo
+2.2.1.02.02.00.Efectos por pagar a contratistas a mediano y largo plazo
+2.2.2.00.00.00.DEUDA PÚBLICA A LARGO PLAZO
+2.2.2.01.00.00.DEUDA PUBLICA INTERNA POR TÍTULOS Y VALORES A LARGO PLAZO
+2.2.2.01.01.00.Bonos y otros valores de la deuda pública interna a largo plazo
+/2.2.2.01.02.00.Letras del Tesoro a largo plazo
+2.2.2.02.00.00.DEUDA PUBLICA INTERNA POR PRÉSTAMOS POR PAGAR A LARGO PLAZO
+2.2.2.02.01.00.Deuda interna por préstamos recibidos del sector privado por pagar a largo plazo
+2.2.2.02.02.00.Deuda interna por préstamos recibidos de la República por pagar a largo plazo
+2.2.2.02.03.00.Deuda interna por préstamos recibidos de entes descentralizados sin fines empresariales por pagar a largo plazo
+2.2.2.02.04.00.Deuda interna por préstamos recibidos de instituciones de protección social por pagar a largo plazo
+2.2.2.02.05.00.Deuda interna por préstamos recibidos de entes descentralizados con fines empresariales petroleros por pagar a largo plazo
+2.2.2.02.06.00.Deuda interna por préstamos recibidos de entes descentralizados con fines empresariales no petroleros por pagar a largo plazo
+2.2.2.02.07.00.Deuda interna por préstamos recibidos de entes descentralizados financieros bancarios por pagar a largo plazo
+2.2.2.02.08.00.Deuda interna por préstamos recibidos de entes descentralizados financieros no bancarios por pagar a largo plazo
+2.2.2.02.09.00.Deuda interna por préstamos recibidos del Poder Estadal por pagar a largo plazo
+2.2.2.02.10.00.Deuda interna por préstamos recibidos del Poder Municipal por pagar a largo plazo
+2.2.2.03.00.00.DEUDA PUBLICA EXTERNA POR TÍTULOS Y VALORES A LARGO PLAZO
+2.2.2.03.01.00.Tí tulos y valores de la deuda pública externa a largo plazo
+2.2.2.04.00.00.DEUDA PUBLICA EXTERNA POR PRÉSTAMOS POR PAGAR A LARGO PLAZO
+2.2.2.04.01.00.Deuda externa por préstamos recibidos de gobiernos extranjeros por pagar a largo plazo
+2.2.2.04.02.00.Deuda externa por préstamos recibidos de organismos internacionales por pagar a largo plazo
+2.2.2.04.03.00.Deuda externa por préstamos recibidos de instituciones financieras externas por pagar a largo plazo
+2.2.2.04.04.00.Deuda externa por préstamos recibidos de proveedores de bienes y servicios externos por pagar a largo plazo
+2.2.2.09.00.00.DEUDA PÚBLICA A LARGO PLAZO POR DISTRIBUIR
+2.2.2.09.01.00.Deuda pública interna a largo plazo por distribuir
+2.2.2.09.02.00.Deuda pública externa a largo plazo por distribuir
+2.2.3.00.00.00.PASIVOS DIFERIDOS
+2.2.3.01.00.00.PASIVOS DIFERIDOS A MEDIANO Y LARGO PLAZO
+2.2.3.01.01.00.Certificados de reintegro tributario a mediano y largo plazo
+2.2.3.01.02.00.Bonos de exportación
+2.2.3.01.03.00.Bonos en dación de pagos
+2.2.4.00.00.00.PROVISIONES Y RESERVAS TÉCNICAS
+2.2.4.01.00.00.PROVISIONES
+2.2.4.01.01.00.Provisión para cuentas incobrables
+2.2.4.01.02.00.Provisión para despidos
+2.2.4.01.03.00.Provisión para pérdidas en el inventario
+2.2.4.01.04.00.Provisión para beneficios sociales
+/2.2.4.01.09.00.Otras provisiones
+2.2.4.01.99.00.Otras provisiones
+2.2.4.02.00.00.RESERVAS TÉCNICAS
+2.2.5.00.00.00.DEPRECIACIÓN Y AMORTIZACIÓN ACUMULADAS
+2.2.5.01.00.00.DEPRECIACIÓN ACUMULADA DE BIENES DE USO
+2.2.5.01.01.00.Depreciación acumulada de edificios e instalaciones
+2.2.5.01.02.00.Depreciación acumulada de maquinaria y demás equipos de construcción, campo, industria y taller
+2.2.5.01.03.00.Depreciación acumulada de equipos de transporte, tracción y elevación
+2.2.5.01.04.00.Depreciación acumulada de equipos de comunicaciones y señalamiento
+2.2.5.01.05.00.Depreciación acumulada de equipos médico-quirúrgicos, dentales y veterinarios
+2.2.5.01.06.00.Depreciación acumulada de equipos cientí ficos, religiosos, de enseñanza y recreación
+2.2.5.01.07.00.Depreciación acumulada de equipos y armamento de orden público, seguridad y defensa
+2.2.5.01.08.00.Depreciación acumulada de máquinas, muebles y demás equipos de oficina y de alojamiento
+2.2.5.01.09.00.Depreciación acumulada de semovientes
+/2.2.5.01.19.00.Depreciación acumulada de otros bienes de uso
+2.2.5.01.99.00.Depreciación acumulada de otros bienes de uso
+2.2.5.02.00.00.AMORTIZACIÓN ACUMULADA DE ACTIVOS INTANGIBLES
+2.2.5.02.01.00.Amortización acumulada de marcas de fábrica y patentes de invención
+2.2.5.02.02.00.Amortización acumulada de derechos de autor
+2.2.5.02.03.00.Amortización acumulada de gastos de organización
+2.2.5.02.04.00.Amortización acumulada de paquetes y programas de computación
+2.2.5.02.05.00.Amortización acumulada de estudios y proyectos
+/2.2.5.02.19.00.Amortización acumulada de otros activos intangibles
+2.2.5.02.99.00.Amortización acumulada de otros activos intangibles
+2.2.9.00.00.00.OTROS PASIVOS A MEDIANO Y LARGO PLAZO
+/2.2.9.09.00.00.OTROS PASIVOS NO CIRCULANTES
+2.2.9.99.00.00.OTROS PASIVOS NO CORRIENTES
+3.0.0.00.00.00.PATRIMONIO
+3.1.0.00.00.00.HACIENDA PÚBLICA
+3.1.1.00.00.00.CAPITAL FISCAL
+3.1.1.01.00.00.CAPITAL FISCAL
+3.1.2.00.00.00.TRANSFERENCIAS Y DONACIONES DE CAPITAL RECIBIDAS
+3.1.2.01.00.00.TRANSFERENCIAS DE CAPITAL RECIBIDAS
+3.1.2.01.01.00.Transferencias de capital recibidas del sector privado
+3.1.2.01.02.00.Transferencias de capital recibidas del sector público
+3.1.2.01.03.00.Transferencias de capital recibidas del exterior
+3.1.2.01.99.00.Otras transferencias de capital recibidas del sector público
+3.1.2.02.00.00.DONACIONES DE CAPITAL RECIBIDAS
+3.1.2.02.01.00.Donaciones de capital internas recibidas
+3.1.2.02.02.00.Donaciones de capital externas recibidas
+3.1.3.00.00.00.SITUADO Y APORTES ESPECIALES
+3.1.3.01.00.00.SITUADO
+3.1.3.01.01.00.Situado Constitucional
+3.1.3.01.01.01.Situado Estadal
+3.1.3.01.01.02.Situado Municipal
+/3.1.3.01.01.03.Subsidio de régimen especial
+3.1.3.01.02.00.Situado Estadal a Municipal
+3.1.3.02.00.00.SUBSIDIO DE RÉGIMEN ESPECIAL
+3.1.3.03.00.00.ASIGNACIONES ECONÓMICAS ESPECIALES
+3.1.3.03.01.00.Asignaciones económicas especiales – Estadal
+3.1.3.03.02.00.Asignaciones económicas especiales - Estadal a Municipal
+3.1.3.03.03.00.Asignaciones económicas especiales - Municipal
+3.1.3.03.04.00.Asignaciones económicas especiales - Fondo Nacional de los Consejos Comunales
+3.1.3.03.05.00.Asignaciones económicas especiales - Apoyo al Fortalecimiento Institucional
+3.1.3.04.00.00.FONDO INTERGUBERNAMENTAL PARA LA DESCENTRALIZACIÓN
+3.1.3.05.00.00.FONDO DE COMPENSACIÓN INTERTERRITORIAL
+3.1.3.05.01.00.Fondo de Compensación Interterritorial Estadal
+3.1.3.05.02.00.Fondo de Compensación Interterritorial Municipal
+3.1.3.05.03.00.Fondo de Compensación Interterritorial Poder Popular
+3.1.3.05.04.00.Fondo de Compensación Interterritorial Fortalecimiento Institucional
+3.1.3.06.00.00.APORTES DEL SECTOR PÚBLICO AL PODER ESTADAL Y AL PODER MUNICIPAL POR TRANSFERENCIA DE SERVICIOS
+3.1.3.06.01.00.Aportes del Sector Público al Poder Estadal por transferencia de servicios
+3.1.3.06.02.00.Aportes del Sector Público al Poder Municipal por transferencia de servicios
+3.1.3.07.00.00.TRANSFERENCIAS Y DONACIONES DE CAPITAL DE ORGANISMOS DEL SECTOR PÚBLICO RECIBIDAS POR LOS CONSEJOS COMUNALES
+3.1.3.07.01.00.Transferencias de capital de organismos del sector público recibidas por los Consejos Comunales
+3.1.3.07.02.00.Donaciones de capital de organismos del sector público recibidas por los Consejos Comunales
+3.1.4.00.00.00.AJUSTE POR INFLACIÓN
+3.1.4.01.00.00.AJUSTE POR INFLACIÓN
+3.1.5.00.00.00.RESULTADOS
+3.1.5.01.00.00.RESULTADOS ACUMULADOS
+3.1.5.02.00.00.RESULTADOS DEL EJERCICIO
+3.2.0.00.00.00.PATRIMONIO INSTITUCIONAL
+3.2.1.00.00.00.CAPITAL INSTITUCIONAL
+3.2.1.01.00.00.CAPITAL INSTITUCIONAL
+3.2.2.00.00.00.TRANSFERENCIAS, DONACIONES DE CAPITAL Y APORTES POR CAPITALIZAR RECIBIDOS
+3.2.2.01.00.00.TRANSFERENCIAS DE CAPITAL RECIBIDAS
+3.2.2.01.01.00.Transferencias de capital internas recibidas del sector privado
+3.2.2.01.02.00.Transferencias de capital internas recibidas del sector público
+3.2.2.01.03.00.Transferencias de capital recibidas del exterior
+3.2.2.01.99.00.Otras transferencias de capital internas recibidas del sector público
+3.2.2.02.00.00.DONACIONES DE CAPITAL RECIBIDAS
+3.2.2.02.01.00.Donaciones de capital internas recibidas
+3.2.2.02.02.00.Donaciones de capital externas recibidas
+3.2.2.03.00.00.APORTES POR CAPITALIZAR RECIBIDOS
+3.2.2.04.00.00.DIVIDENDOS POR DISTRIBUIR
+3.2.3.00.00.00.RESERVAS
+3.2.3.01.00.00.RESERVAS LEGALES Y ESTATUTARIAS
+3.2.4.00.00.00.AJUSTE POR INFLACIÓN
+3.2.4.01.00.00.AJUSTE POR INFLACIÓN
+3.2.5.00.00.00.RESULTADOS
+3.2.5.01.00.00.RESULTADOS ACUMULADOS
+3.2.5.02.00.00.RESULTADOS DEL EJERCICIO
+/3.3.0.00.00.00.PATRIMONIO PÚBLICO
+4.0.0.00.00.00.CUENTAS DE ORDEN
+4.1.0.00.00.00.CUENTAS DE ORDEN DEUDORAS
+4.1.1.00.00.00.DIVERSAS
+4.1.1.01.00.00.COMPROMISOS FUTUROS
+/4.1.1.01.01.00.Autorizaciones para contratar deuda pública interna
+/4.1.1.01.02.00.Autorizaciones para desembolsar deuda pública interna
+/4.1.1.01.03.00.Autorizaciones para la emisión y colocación de bonos y otros valores de la deuda pública interna
+4.1.1.02.00.00.FIANZAS Y GARANTÍAS A FAVOR DE LA ENTIDAD
+4.1.1.02.01.00.Fondos en garantí a
+4.1.1.02.02.00.Títulos y valores recibidos en garantía
+4.1.1.02.03.00.Documentos representativos de fianzas a favor de la entidad
+4.1.1.02.99.00.Otras garantías a favor de la entidad
+4.1.1.03.00.00.MERCANCÍA DECOMISADA
+4.1.1.04.00.00.MERCANCÍA DECOMISADA PERDIDA O EXTRAVIADA
+/4.1.1.04.01.00.Bonos de exportación emitidos
+/4.1.1.04.02.00.Certificados de reintegro tributario emitidos
+/4.1.1.04.03.00.Bonos en dación de pagos emitidos
+4.1.1.05.00.00.DEMANDAS JUDICIALES
+4.1.1.06.00.00.ESPECIES FISCALES
+4.1.1.07.00.00.ESPECIES FISCALES ENTREGADAS
+4.1.1.08.00.00.FONDOS Y VALORES EN CUSTODIA
+4.1.1.08.01.00.Fondos en custodia
+4.1.1.08.02.00.Valores en custodia
+4.1.1.09.00.00.INMUEBLES DADOS EN COMODATO
+4.1.1.10.00.00.RECLAMACIONES EN ESTUDIO
+4.1.1.11.00.00.MERCANCÍAS RECIBIDAS EN CONSIGNACIÓN
+4.1.1.12.00.00.FIDEICOMISO
+4.1.1.13.00.00.INMUEBLES RECIBIDOS EN COMODATO
+4.1.1.14.00.00.TRIBUTOS COBRADOS EN EXCESO
+4.1.1.15.00.00.RAMOS DE INGRESOS DERECHOS LIQUIDADOS
+4.1.1.16.00.00.EXONERACIONES DE INGRESOS
+/4.1.2.00.00.00.DIVERSOS
+/4.1.2.01.00.00.COMPROMISOS FUTUROS
+/4.1.2.02.00.00.FIANZAS Y GARANTÍAS A FAVOR DE LA ENTIDAD
+/4.1.2.02.01.00.Fondos en garantí a
+/4.1.2.02.02.00.Tí tulos y valores recibidos en garantí a
+/4.1.2.02.03.00.Documentos representativos de fianzas a favor de la entidad
+/4.1.2.02.04.00.Otras garantí as a favor de la entidad
+/4.1.2.03.00.00.MERCANCÍA DECOMISADA
+/4.1.2.04.00.00.MERCANCÍA DECOMISADA PERDIDA O EXTRAVIADA
+/4.1.2.05.00.00.DEMANDAS JUDICIALES
+/4.1.2.06.00.00.ESPECIES FISCALES
+/4.1.2.07.00.00.ESPECIES FISCALES ENTREGADAS
+/4.1.2.08.00.00.VALORES EN CUSTODIA
+/4.1.2.09.00.00.INMUEBLES DADOS EN COMODATO
+/4.1.2.10.00.00.RECLAMACIONES EN ESTUDIO
+/4.1.2.11.00.00.MERCANCÍAS RECIBIDAS EN CONSIGNACIÓN
+/4.1.2.12.00.00.FIDEICOMISOS
+4.2.0.00.00.00.CUENTAS DE ORDEN ACREEDORAS
+4.2.1.00.00.00.DIVERSAS
+4.2.1.01.00.00.COMPROMISOS FUTUROS - CONTRA
+/4.2.1.01.01.00.Autorizaciones para contratar deuda pública interna por utilizar
+/4.2.1.01.02.00.Autorizaciones para desembolsar deuda pública interna por utilizar
+/4.2.1.01.03.00.Autorizaciones para la emisión y colocación de bonos y otros valores de la deuda pública interna por utilizar
+4.2.1.02.00.00.FINANZAS Y GARANTÍAS A FAVOR DE LA ENTIDAD - CONTRA
+4.2.1.02.01.00.Fondos en garantía
+4.2.1.02.02.00.Títulos y valores recibidos en garantía
+4.2.1.02.03.00.Documentos representativos de fianzas a favor de la entidad
+4.2.1.02.99.00.Otras garantías a favor de la entidad
+4.2.1.03.00.00.MERCANCÍA DECOMISADA - CONTRA
+/4.2.1.03.01.00.Bonos y otros valores de la deuda pública interna por colocar
+/4.2.1.03.02.00.Letras del tesoro
+4.2.1.04.00.00.MERCANCÍA DECOMISADA PERDIDA O EXTRAVIADA - CONTRA
+/4.2.1.04.01.00.Títulos y valores de la deuda pública externa por colocar
+4.2.1.05.00.00.DEMANDAS JUDICIALES - CONTRA
+/4.2.1.05.01.00.Contratos de la deuda pública interna por ejecutar
+/4.2.1.05.02.00.Contratos de la deuda pública externa por ejecutar
+4.2.1.06.00.00.ESPECIES FISCALES - CONTRA
+/4.2.1.06.01.00.Bonos y otros valores de la deuda pública interna en circulación
+/4.2.1.06.02.00.Letras del tesoro
+4.2.1.07.00.00.ESPECIES FISCALES ENTREGADAS - CONTRA
+/4.2.1.07.01.00.Tí tulos y valores de la deuda pública externa en circulación
+4.2.1.08.00.00.FONDOS Y VALORES EN CUSTODIA - CONTRA
+4.2.1.08.01.00.Fondos en custodia
+4.2.1.08.02.00.Valores en custodia
+4.2.1.09.00.00.INMUEBLES DADOS EN COMODATO - CONTRA
+4.2.1.10.00.00.RECLAMACIONES EN ESTUDIO - CONTRA
+/4.2.1.10.01.00.Bonos de exportación por colocar
+/4.2.1.10.02.00.Certificados de reintegro tributario por colocar
+/4.2.1.10.03.00.Bonos en dación de pagos por colocar
+4.2.1.11.00.00.MERCANCÍAS RECIBIDAS EN CONSIGNACIÓN - CONTRA
+/4.2.1.11.01.00.Bonos de exportación en circulación
+/4.2.1.11.02.00.Certificados de reintegro tributario en circulación
+/4.2.1.11.03.00.Bonos en dación de pagos en circulación
+4.2.1.12.00.00.FIDEICOMISO - CONTRA
+4.2.1.13.00.00.INMUEBLES RECIBIDOS EN COMODATO - CONTRA
+4.2.1.14.00.00.TRIBUTOS COBRADOS EN EXCESO - CONTRA
+4.2.1.15.00.00.RAMOS DE INGRESOS DERECHOS LIQUIDADOS - CONTRA
+4.2.1.16.00.00.EXONERACIONES DE TRIBUTOS - CONTRA
+/4.2.2.00.00.00.DIVERSOS
+/4.2.2.01.00.00.COMPROMISOS FUTUROS - CONTRA
+/4.2.2.02.00.00.FIANZAS Y GARANTÍAS A FAVOR DE LA ENTIDAD - CONTRA
+/4.2.2.03.00.00.MERCANCÍA DECOMISADA - CONTRA
+/4.2.2.04.00.00.MERCANCÍA DECOMISADA PERDIDA O EXTRAVIADA - CONTRA
+/4.2.2.05.00.00.DEMANDAS JUDICIALES - CONTRA
+/4.2.2.06.00.00.ESPECIES FISCALES - CONTRA
+/4.2.2.07.00.00.ESPECIES FISCALES ENTREGADAS - CONTRA
+/4.2.2.08.00.00.VALORES EN CUSTODIA - CONTRA
+/4.2.2.09.00.00.INMUEBLES DADOS EN COMODATO - CONTRA
+/4.2.2.10.00.00.RECLAMACIONES EN ESTUDIO - CONTRA
+/4.2.2.11.00.00.MERCANCÍAS RECIBIDAS EN CONSIGNACIÓN - CONTRA
+/4.2.2.12.00.00.FIDEICOMISOS - CONTRA
+5.0.0.00.00.00.INGRESOS
+5.1.0.00.00.00.INGRESOS ORDINARIOS
+5.1.1.00.00.00.INGRESOS TRIBUTARIOS
+5.1.1.01.00.00.IMPUESTOS DIRECTOS
+5.1.1.01.01.00.Impuesto sobre la renta
+5.1.1.01.02.00.Impuesto sobre sucesiones, donaciones y demás ramos conexos
+5.1.1.01.03.00.Reparos administrativos al impuesto sobre la renta
+5.1.1.01.04.00.Reparos administrativos al impuesto sobre sucesiones, donaciones y demás ramos conexos
+5.1.1.02.00.00.IMPUESTOS INDIRECTOS
+5.1.1.02.01.00.Impuesto de importación
+5.1.1.02.02.00.Impuesto de exportación
+5.1.1.02.03.00.Impuesto sobre la producción, el consumo y transacciones financieras
+5.1.1.02.04.00.Impuestos a las actividades de juego de envite o azar
+5.1.1.02.05.00.Inmuebles urbanos
+5.1.1.02.06.00.Participación en el impuesto a la propiedad rural
+5.1.1.02.07.00.Patente de industria y comercio
+5.1.1.02.08.00.Patente de vehí culo
+5.1.1.02.09.00.Propaganda comercial
+5.1.1.02.10.00.Espectáculos públicos
+5.1.1.02.11.00.Apuestas lí citas
+5.1.1.02.12.00.Deudas morosas
+5.1.1.02.13.00.Reparos administrativos al impuesto de casinos, salas de juego y máquinas traganí queles
+5.1.1.02.99.00.Otros impuestos indirectos
+5.1.1.03.00.00.TASAS
+5.1.1.04.00.00.CONTRIBUCIONES ESPECIALES
+5.1.1.04.01.00.Contribuciones sobre la plusvalí a inmobiliaria
+5.1.1.04.02.00.Contribuciones por mejoras
+/5.1.1.04.09.00.Otras contribuciones especiales
+5.1.1.04.99.00.Otras contribuciones especiales
+5.1.2.00.00.00.APORTES Y CONTRIBUCIONES A LA SEGURIDAD SOCIAL
+5.1.2.01.00.00.APORTES A LA SEGURIDAD SOCIAL
+5.1.2.01.01.00.Aportes del sector privado
+5.1.2.01.02.00.Aportes del sector público
+5.1.2.02.00.00.CONTRIBUCIONES A LA SEGURIDAD SOCIAL
+5.1.2.02.01.00.Contribuciones del sector privado
+5.1.2.02.02.00.Contribuciones del sector público
+5.1.3.00.00.00.INGRESOS NO TRIBUTARIOS
+5.1.3.01.00.00.INGRESOS DEL DOMINIO PETROLERO
+5.1.3.01.01.00.Regalí as
+5.1.3.01.02.00.Impuesto superficial de hidrocarburos
+5.1.3.01.03.00.Impuesto de extracción
+5.1.3.01.04.00.Impuesto de registro de exportación
+5.1.3.01.05.00.Participación de Azufre
+5.1.3.01.06.00.Participación por Coque
+5.1.3.01.07.00.Ventajas especiales petroleras
+/5.1.3.01.09.00.Otros ingresos del dominio petrolero
+5.1.3.01.99.00.Otros ingresos del dominio petrolero
+5.1.3.02.00.00.INGRESOS DEL DOMINIO MINERO
+5.1.3.02.01.00.Superficial minero
+5.1.3.02.02.00.Impuesto de explotación
+5.1.3.02.03.00.Ventajas especiales mineras
+5.1.3.02.04.00.Regalía minera de oro
+5.1.3.03.00.00.INGRESOS DEL DOMINIO FORESTAL
+5.1.3.03.01.00.Impuesto superficial
+5.1.3.03.02.00.Impuesto de explotación o aprovechamiento
+5.1.3.03.03.00.Permiso o autorización para la explotación o aprovechamiento de los recursos forestales
+5.1.3.03.04.00.Autorización para deforestación
+5.1.3.03.05.00.Autorización para movilizar productos forestales
+5.1.3.03.06.00.Participación por la explotación en zonas de reserva forestal
+5.1.3.03.07.00.Ventajas especiales por recursos forestales
+5.1.3.04.00.00.INGRESOS SOBRE EL DOMINIO DE LA ACTIVIDAD TURÍSTICA
+5.1.3.04.01.00.Contribución especial por la prestación del servicio turístico
+5.1.3.04.98.00.Otros ingresos percibidos por la explotación de la actividad turística
+5.1.4.00.00.00.VENTA DE BIENES Y SERVICIOS
+5.1.4.01.00.00.VENTA DE BIENES Y SERVICIOS DE LA ADMINISTRACIÓN PÚBLICA
+5.1.4.01.01.00.Ingresos por la venta de bienes
+5.1.4.01.02.00.Ingresos por la venta de servicios
+/5.1.4.01.09.00.Ingresos por la venta de otros bienes y servicios
+5.1.4.01.99.00.Ingresos por la venta de otros bienes y servicios
+/5.1.4.02.00.00.VENTA BRUTA DE BIENES
+/5.1.4.03.00.00.VENTA BRUTA DE SERVICIOS
+5.1.4.04.00.00.INGRESOS FINANCIEROS DE INSTITUCIONES FINANCIERAS BANCARIAS
+5.1.4.05.00.00.INGRESOS FINANCIEROS DE INSTITUCIONES FINANCIERAS NO BANCARIAS
+/5.1.4.06.00.00.INGRESOS POR OPERACIONES DE SEGURO
+/5.1.4.06.01.00.Ingresos por operaciones de prima de seguros
+/5.1.4.06.02.00.Ingresos por operaciones de reaseguros
+/5.1.4.06.03.00.Ingresos por salvamento de siniestros
+/5.1.4.06.09.00.Otros ingresos por operaciones de seguros
+5.1.4.99.00.00.OTROS INGRESOS DE OPERACIÓN
+5.1.5.00.00.00.INGRESOS DE LA PROPIEDAD
+5.1.5.01.00.00.INTERESES POR PRÉSTAMOS CONCEDIDOS
+5.1.5.01.01.00.Intereses por préstamos concedidos al sector privado
+5.1.5.01.02.00.Intereses por préstamos concedidos al sector público
+5.1.5.01.03.00.Intereses por préstamos concedidos al sector externo
+5.1.5.02.00.00.INTERESES POR DEPÓSITOS EN INSTITUCIONES FINANCIERAS
+5.1.5.02.01.00.Intereses por depósitos a la vista
+5.1.5.02.02.00.Intereses por depósitos a plazo fijo
+5.1.5.03.00.00.INTERESES DE TÍTULOS Y VALORES
+5.1.5.03.01.00.Intereses de tí tulos y valores privados
+5.1.5.03.02.00.Intereses de tí tulos y valores públicos
+5.1.5.03.03.00.Intereses de tí tulos y valores externos
+/5.1.5.04.00.00.UTILIDADES DE ACCIONES Y PARTICIPACIONES DE CAPITAL
+/5.1.5.04.01.00.Utilidades de acciones y participaciones de capital del sector privado empresarial
+/5.1.5.04.02.00.Utilidades de acciones y participaciones de capital de entes descentralizados con fines empresariales petroleros
+/5.1.5.04.03.00.Utilidades de acciones y participaciones de capital de entes descentralizados con fines empresariales no petroleros
+/5.1.5.04.04.00.Utilidades de acciones y participaciones de capital de entes financieros bancarios
+/5.1.5.04.05.00.Utilidades de acciones y participaciones de capital de entes financieros no bancarios
+/5.1.5.04.06.00.Utilidades de acciones y participaciones de capital de organismos internacionales
+/5.1.5.04.07.00.Utilidades de acciones y participaciones de capital de otros entes del sector externo
+5.1.5.05.00.00.UTILIDADES DE EXPLOTACIÓN DE JUEGOS DE AZAR
+5.1.5.05.01.00.Utilidades de explotación de juegos de azar por concesiones
+5.1.5.05.02.00.Utilidades de explotación de juegos de azar de empresas públicas
+5.1.5.06.00.00.ALQUILERES DE BIENES
+5.1.5.06.01.00.Alquileres de inmuebles
+5.1.5.06.02.00.Alquileres de bienes muebles
+/5.1.5.06.09.00.Alquileres de otros bienes
+5.1.5.06.99.00.Alquileres de otros bienes
+5.1.5.07.00.00.DERECHOS SOBRE BIENES INTANGIBLES
+5.1.5.09.00.00.RENTA POR CONCESIONES DE BIENES Y SERVICIOS
+5.1.6.00.00.00.INGRESOS AJENOS A LA OPERACIÓN
+5.1.6.01.00.00.SUBSIDIOS PARA PRECIOS Y TARIFAS
+5.1.6.02.00.00.INCENTIVOS A LA EXPORTACIÓN
+/5.1.6.09.00.00.OTROS INGRESOS AJENOS A LA OPERACIÓN
+5.1.6.99.00.00.OTROS INGRESOS AJENOS A LA OPERACIÓN
+5.1.7.00.00.00.TRANSFERENCIAS Y DONACIONES
+5.1.7.01.00.00.TRANSFERENCIAS Y DONACIONES CORRIENTES
+5.1.7.01.01.00.Transferencias corrientes internas recibidas
+5.1.7.01.01.01.Transferencias corrientes recibidas del sector privado
+5.1.7.01.01.02.Transferencias corrientes recibidas del sector público
+5.1.7.01.01.03.Transferencias corrientes recibidas del exterior
+5.1.7.01.01.99.Otras transferencias corrientes recibidas del sector público
+5.1.7.01.02.00.Donaciones corrientes internas recibidas
+5.1.7.01.02.01.Donaciones corrientes recibidas del sector privado
+5.1.7.01.02.02.Donaciones corrientes recibidas del sector público
+5.1.7.01.02.03.Donaciones corrientes recibidas del exterior
+5.1.7.02.00.00.SITUADO Y ASIGNACIONES A ESTADOS Y MUNICIPIOS
+5.1.7.02.01.00.Situado Constitucional
+5.1.7.02.01.01.Situado Estadal
+5.1.7.02.01.02.Situado Municipal
+/5.1.7.02.01.03.Subsidio de régimen especial
+5.1.7.02.02.00.Situado Estadal a Municipal
+5.1.7.03.00.00.SUBSIDIO DE RÉGIMEN ESPECIAL
+5.1.7.04.00.00.SUBSIDIO DE CAPITALIDAD
+/5.1.7.04.01.00.Aportes a los Estados por transferencia de los servicios
+/5.1.7.04.02.00.Aportes a los Municipios por transferencia de los servicios
+/5.1.7.05.00.00.FONDO DE COMPENSACIÓN INTERTERRITORIAL
+5.1.7.06.01.00.Aportes del sector público al Poder Estadal por transferencia de servicios
+5.1.7.06.02.00.Aportes del sector público al Poder Municipal por transferencia de servicios
+5.1.8.00.00.00.OTROS INGRESOS ORDINARIOS
+5.1.8.01.00.00.INTERESES MORATORIOS
+5.1.8.02.00.00.REPAROS FISCALES
+5.1.8.03.00.00.SANCIONES FISCALES
+5.1.8.04.00.00.JUICIOS Y COSTAS PROCESALES
+5.1.8.05.00.00.BENEFICIOS EN OPERACIONES CAMBIARÍAS
+5.1.8.06.00.00.UTILIDAD POR VENTA DE ACTIVOS
+5.1.8.07.00.00.INTERESES POR FINANCIAMIENTO DE DEUDAS TRIBUTARIAS
+5.1.8.08.00.00.MULTAS Y RECARGOS
+5.1.8.09.00.00.REPAROS ADMINISTRATIVOS AL IMPUESTO A LOS ACTIVOS EMPRESARIALES
+5.1.8.10.00.00.DIVERSOS REPAROS ADMINISTRATIVOS
+5.1.8.11.00.00.INGRESOS EN TRÁNSITO
+5.1.8.99.00.00.OTROS INGRESOS ORDINARIOS
+5.2.0.00.00.00.INGRESOS EXTRAORDINARIOS
+5.2.1.00.00.00.INGRESOS POR OPERACIONES DIVERSAS
+5.2.1.01.00.00.LIQUIDACIÓN DE ENTES DESCENTRALIZADOS
+5.2.1.02.00.00.HERENCIAS VACANTES
+5.2.1.03.00.00.PRIMA EN COLOCACIÓN DE TÍTULOS Y VALORES DE LA DEUDA PÚBLICA
+/5.2.1.04.00.00.UTILIDADES NETAS DEL BANCO CENTRAL DE VENEZUELA
+5.2.1.05.00.00.INGRESOS PROVENIENTES DE PROCESOS DE LICITACIÓN
+5.2.1.06.00.00.REINTEGRO DE FONDOS CORRESPONDIENTES A EJERCICIOS ANTERIORES
+5.2.1.06.01.00.Reintegro efectuado por exportadores proveniente de bonos de exportación
+5.2.1.06.02.00.Reintegro efectuado por organismos públicos proveniente de bonos de exportación
+5.2.1.06.03.00.Reintegro efectuado por los responsables del manejo o administración de fondos
+5.2.1.06.03.01.Reintegro de fondos correspondientes a ejercicios anteriores por gastos de personal
+5.2.1.06.03.02.Reintegro de fondos correspondientes a ejercicios anteriores por bienes y servicios
+5.2.1.06.03.03.Reintegro de fondos correspondientes a ejercicios anteriores por activos reales
+5.2.1.06.03.04.Reintegro de fondos correspondientes a ejercicios anteriores por activos financieros
+5.2.1.06.03.05.Reintegro de fondos correspondientes a ejercicios anteriores por gastos de defensa y seguridad del Estado
+5.2.1.06.03.06.Reintegro de fondos correspondientes a ejercicios anteriores por transferencias y donaciones
+5.2.1.06.03.07.Reintegro de fondos correspondientes a ejercicios anteriores por asignaciones no distribuidas y otros gastos
+5.2.1.06.03.08.Reintegro de fondos correspondientes a ejercicios anteriores por servicios de deuda pública
+5.2.1.06.03.09.Otros reintegros efectuados por los responsables del manejo de administración de fondos
+5.2.1.06.04.00.Reintegro efectuado por particulares
+5.2.1.07.00.00.INGRESOS POR DEVOLUCIONES O REINTEGROS INDEBIDOS
+5.2.1.08.00.00.IMPUESTO A LAS TRANSACCIONES FINANCIERAS
+5.2.1.08.01.00.Impuesto a las transacciones financieras
+5.2.1.08.02.00.Reparos administrativos al impuesto a las transacciones financieras
+5.2.1.08.03.00.Multas y recargos por el impuesto a las transacciones financieras
+5.2.1.09.00.00.UTILIDADES DE ACCIONES Y PARTICIPACIONES DE CAPITAL
+5.2.1.09.01.00.Utilidades de acciones y participaciones de capital del sector privado empresarial
+5.2.1.09.02.00.Utilidades de acciones y participaciones de capital de entes descentralizados con fines empresariales petroleros
+5.2.1.09.03.00.Utilidades de acciones y participaciones de capital de entes descentralizados con fines empresariales no petroleros
+5.2.1.09.04.00.Utilidades de acciones y participaciones de capital de entes financieros bancarios
+5.2.1.09.05.00.Utilidades de acciones y participaciones de capital de entes financieros no bancarios
+5.2.1.09.06.00.Utilidades de acciones y participaciones de capital de organismos internacionales
+5.2.1.09.07.00.Utilidades de acciones y participaciones de capital de otros entes del sector externo
+5.2.1.09.08.00.Utilidades netas semestrales del Banco Central de Venezuela (BCV)
+5.2.1.99.00.00.OTROS INGRESOS EXTRAORDINARIOS
+/5.2.1.99.01.00.Otros ingresos extraordinarios
+6.0.0.00.00.00.GASTOS
+6.1.0.00.00.00.GASTOS DE CONSUMO
+6.1.1.00.00.00.GASTOS DE PERSONAL
+6.1.1.01.00.00.SUELDOS, SALARIOS Y OTRAS REMUNERACIONES
+6.1.1.02.00.00.COMPLEMENTOS DE SUELDOS Y SALARIOS
+6.1.1.03.00.00.APORTES PATRONALES Y LEGALES
+6.1.1.04.00.00.ASISTENCIA SOCIO ECONÓMICA
+6.1.1.05.00.00.PRESTACIONES SOCIALES E INDEMNIZACIONES
+6.1.1.06.00.00.CAPACITACIÓN Y ADIESTRAMIENTO
+6.1.1.99.00.00.OTROS GASTOS DE PERSONAL
+6.1.2.00.00.00.MATERIALES, SUMINISTROS Y MERCANCÍAS
+6.1.2.01.00.00.MATERIALES, SUMINISTROS Y MERCANCÍAS
+6.1.3.00.00.00.SERVICIOS NO PERSONALES
+6.1.3.01.00.00.ALQUILERES DE BIENES
+6.1.3.01.01.00.Alquileres de bienes inmuebles
+6.1.3.01.02.00.Alquileres de bienes muebles
+6.1.3.02.00.00.DERECHOS SOBRE BIENES INTANGIBLES
+6.1.3.03.00.00.SERVICIOS BÁSICOS
+6.1.3.03.01.00.Electricidad
+6.1.3.03.02.00.Gas
+6.1.3.03.03.00.Agua
+6.1.3.03.04.00.Teléfonos
+6.1.3.03.05.00.Servicio de comunicaciones
+6.1.3.03.06.00.Servicio de aseo urbano y domiciliario
+6.1.3.03.07.00.Servicio de condominio
+6.1.3.04.00.00.SERVICIOS DE TRANSPORTE Y ALMACENAJE
+6.1.3.05.00.00.SERVICIOS DE INFORMACIÓN, IMPRESIÓN Y RELACIONES PÚBLICAS
+6.1.3.06.00.00.PRIMAS, GASTOS DE SEGUROS, COMISIONES Y GASTOS BANCARIOS
+6.1.3.07.00.00.VIÁTICOS Y PASAJES
+6.1.3.08.00.00.SERVICIOS PROFESIONALES, TÉCNICOS Y DEMÁS OFICIOS Y OCUPACIONES
+6.1.3.09.00.00.CONSERVACIÓN Y REPARACIONES MENORES DE MAQUINARIA Y EQUIPOS
+6.1.3.10.00.00.CONSERVACIÓN Y REPARACIONES MENORES DE OBRAS
+6.1.3.11.00.00.SERVICIO DE ADMINISTRACIÓN, VIGILANCIA Y MANTENIMIENTO DE LOS SERVICIOS BÁSICOS
+6.1.3.12.00.00.SERVICIOS DE CONSTRUCCIONES TEMPORALES
+6.1.3.13.00.00.SERVICIOS DE CONSTRUCCIÓN DE EDIFICACIONES PARA LA VENTA
+6.1.3.14.00.00.SERVICIOS FISCALES
+6.1.3.15.00.00.SERVICIOS DE DIVERSIÓN, ESPARCIMIENTO Y CULTURALES
+6.1.3.16.00.00.SERVICIOS DE GESTIÓN ADMINISTRATIVA PRESTADOS POR ORGANISMOS DE ASISTENCIA TÉCNICA
+6.1.3.17.00.00.IMPUESTOS INDIRECTOS
+6.1.3.17.01.00.Impuesto al valor agregado
+6.1.3.17.02.00.Impuesto a las grandes transacciones financieras
+/6.1.3.17.09.00.Otros impuestos indirectos
+6.1.3.17.99.00.Otros impuestos indirectos
+6.1.3.18.00.00.COMISIONES POR SERVICIOS PARA CUMPLIR CON LOS BENEFICIOS SOCIALES
+/6.1.3.19.00.00.COMISIONES POR BENEFICIOS SOCIALES
+/6.1.3.19.01.00.COMISIONES POR BENEFICIOS SOCIALES
+6.1.3.99.00.00.OTROS SERVICIOS NO PERSONALES
+6.1.4.00.00.00.DEPRECIACIÓN Y AMORTIZACIÓN
+6.1.4.01.00.00.DEPRECIACIÓN DE BIENES DE USO
+6.1.4.01.01.00.Depreciación de edificios e instalaciones
+6.1.4.01.02.00.Depreciación de maquinaria y demás equipos de construcción, campo, industria y taller
+6.1.4.01.03.00.Depreciación de equipos de transporte, tracción y elevación
+6.1.4.01.04.00.Depreciación de equipos de comunicaciones y señalamiento
+6.1.4.01.05.00.Depreciación de equipos médico-quirúrgicos, dentales y veterinarios
+6.1.4.01.06.00.Depreciación de equipos cientí ficos, religiosos, de enseñanza y recreación
+6.1.4.01.07.00.Depreciación de equipos y armamentos de orden público, seguridad y defensa
+6.1.4.01.08.00.Depreciación de máquinas, muebles y demás equipos de oficina y alojamiento
+6.1.4.01.09.00.Depreciación de semovientes
+/6.1.4.01.19.00.Depreciación de otros bienes de uso
+6.1.4.01.99.00.Depreciación de otros bienes de uso
+6.1.4.02.00.00.AMORTIZACIÓN DE ACTIVOS INTANGIBLES
+6.1.4.02.01.00.Amortización de marcas de fábrica y patentes de invención
+6.1.4.02.02.00.Amortización de derechos de autor
+6.1.4.02.03.00.Amortización de gastos de organización
+6.1.4.02.04.00.Amortización de paquetes y programas de computación
+6.1.4.02.05.00.Amortización de estudios y proyectos
+/6.1.4.02.19.00.Amortización de otros activos intangibles
+6.1.4.02.99.00.Amortización de otros activos intangibles
+6.2.0.00.00.00.RENTAS DE LA PROPIEDAD
+6.2.1.00.00.00.INTERESES
+6.2.1.01.00.00.INTERESES INTERNOS
+6.2.1.01.01.00.Intereses internos por tí tulos y valores
+6.2.1.01.02.00.Intereses internos por préstamos
+6.2.1.01.03.00.Intereses por depósitos internos
+/6.2.1.01.09.00.Intereses por otros financiamientos
+6.2.1.01.99.00.Intereses por otros financiamientos
+6.2.1.02.00.00.INTERESES EXTERNOS
+6.2.1.02.01.00.Intereses externos por tí tulos y valores
+6.2.1.02.02.00.Intereses externos por préstamos
+6.2.1.03.00.00.INTERESES POR MORA Y MULTAS DE LA DEUDA PÚBLICA
+6.3.0.00.00.00.TRANSFERENCIAS
+6.3.1.00.00.00.TRANSFERENCIAS Y DONACIONES CORRIENTES
+6.3.1.01.00.00.TRANSFERENCIAS Y DONACIONES CORRIENTES OTORGADAS
+6.3.1.01.01.00.Transferencias corrientes internas otorgadas
+6.3.1.01.01.01.Transferencias corrientes otorgadas al sector privado
+6.3.1.01.01.02.Transferencias corrientes otorgadas al sector público
+6.3.1.01.01.03.Transferencias corrientes otorgadas al exterior
+6.3.1.01.01.99.Otras transferencias corrientes otorgadas al sector público
+6.3.1.01.02.00.Donaciones corrientes internas otorgadas
+6.3.1.01.02.01.Donaciones corrientes otorgadas al sector privado
+6.3.1.01.02.02.Donaciones corrientes otorgadas al sector público
+6.3.1.01.02.03.Donaciones corrientes otorgadas al exterior
+6.3.2.00.00.00.SITUADO Y ASIGNACIONES A ESTADOS Y MUNICIPIOS
+6.3.2.01.00.00.SITUADO
+6.3.2.01.01.00.Situado Constitucional
+6.3.2.01.01.01.Situado Estadal
+6.3.2.01.01.02.Situado Municipal
+6.3.2.01.01.03.Subsidio de régimen especial
+6.3.2.01.02.00.Situado Estadal a Municipal
+6.3.2.02.00.00.SUBSIDIO DE RÉGIMEN ESPECIAL
+/6.3.2.02.01.00.Aportes a los Estados por transferencia de los servicios
+/6.3.2.02.02.00.Aportes a los Municipios por transferencia de los servicios
+6.3.2.03.00.00.SUBSIDIO DE CAPITALIDAD
+6.3.2.04.00.00.APORTES AL PODER ESTADAL Y MUNICIPAL POR TRANSFERENCIA DE SERVICIOS
+6.3.2.04.01.00.Aportes al Poder Estadal por transferencia de servicios
+6.3.2.04.02.00.Aportes al Poder Municipal por transferencia de servicios
+6.3.2.05.00.00.FONDO INTERGUBERNAMENTAL PARA LA DESCENTRALIZACIÓN
+6.3.2.07.00.00.TRANSFERENCIAS Y DONACIONES A CONSEJOS COMUNALES
+6.3.2.07.01.00.Transferencias corrientes a Consejos Comunales
+6.3.2.07.02.00.Donaciones corrientes a Consejos Comunales
+6.4.0.00.00.00.PÉRDIDAS Y GASTOS DIVERSOS
+6.4.1.00.00.00.PÉRDIDAS EN OPERACIONES
+6.4.1.01.00.00.GASTOS ORIGINADOS EN OBLIGACIONES DEL EJERCICIO
+6.4.1.01.01.00.Devoluciones de cobros indebidos
+6.4.1.01.02.00.Devoluciones y reintegros diversos
+6.4.1.01.03.00.Indemnizaciones diversas
+6.4.1.02.00.00.PÉRDIDA EN OPERACIÓN DE LOS SERVICIOS BÁSICOS
+6.4.1.02.01.00.Pérdida en el proceso de distribución de los servicios básicos
+6.4.1.02.99.00.Otras pérdidas en operación
+/6.4.1.03.00.00.GASTOS DE OPERACIONES DE SEGURO
+/6.4.1.03.01.00.Gastos de siniestros
+/6.4.1.03.02.00.Gastos de operaciones de reaseguros
+/6.4.1.03.09.00.Otros gastos de operaciones de seguro
+6.4.2.00.00.00.PÉRDIDAS AJENAS A LA OPERACIÓN
+6.4.2.01.00.00.PÉRDIDAS EN INVENTARIOS
+6.4.2.02.00.00.PÉRDIDAS EN OPERACIONES CAMBIARÍAS
+6.4.2.03.00.00.PÉRDIDAS EN VENTAS DE ACTIVOS
+6.4.2.04.00.00.PÉRDIDAS POR CUENTAS INCOBRABLES
+6.4.2.05.00.00.PARTICIPACIÓN EN PÉRDIDAS DE OTRAS EMPRESAS
+6.4.2.06.00.00.PÉRDIDAS POR AUTO-SEGURO
+6.4.2.07.00.00.IMPUESTOS DIRECTOS
+6.4.2.08.00.00.INTERESES POR MORA
+6.4.2.09.00.00.RESERVAS TÉCNICAS
+/6.4.2.99.00.00.OTROS GASTOS AJENOS A LA OPERACIÓN
+6.4.3.00.00.00.GASTOS DIVERSOS
+6.4.3.01.00.00.DESCUENTOS, BONIFICACIONES Y DEVOLUCIONES
+6.4.3.01.01.00.Descuentos sobre ventas
+6.4.3.01.02.00.Bonificaciones por ventas
+6.4.3.01.03.00.Devoluciones por ventas
+/6.4.3.01.04.00.Devoluciones por primas de seguro
+6.4.3.01.05.00.Descuentos en colocación de tí tulos, letras y otros valores de la deuda pública
+6.4.3.02.00.00.INDEMNIZACIONES Y SANCIONES PECUNIARIAS
+6.4.3.02.01.00.Indemnizaciones pecuniarias por daños y perjuicios
+6.4.3.02.02.00.Sanciones pecuniarias
+6.4.3.99.00.00.OTROS GASTOS
+6.5.0.00.00.00.GASTOS DE DEFENSA Y SEGURIDAD DEL ESTADO Y ASIGNACIONES NO DISTRIBUIDAS
+6.5.1.00.00.00.GASTOS DE DEFENSA Y SEGURIDAD DEL ESTADO
+6.5.1.01.00.00.GASTOS DE DEFENSA Y SEGURIDAD DEL ESTADO
+6.5.2.00.00.00.ASIGNACIONES NO DISTRIBUIDAS
+6.5.2.01.00.00.ASIGNACIONES NO DISTRIBUIDAS
+7.0.0.00.00.00.CUENTAS DE CIERRE
+7.1.0.00.00.00.CIERRE DEL EJERCICIO ECONÓMICO FINANCIERO
+7.1.1.00.00.00.RESUMEN DE INGRESOS Y GASTOS
+7.1.1.01.00.00.RESUMEN DE INGRESOS Y GASTOS
+7.1.2.00.00.00.RESULTADO DE LA GESTIÓN
+7.1.2.01.00.00.AHORRO DE LA GESTIÓN
+7.1.2.02.00.00.DESAHORRO DE LA GESTIÓN
