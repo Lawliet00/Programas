@@ -1,0 +1,12 @@
+/////////////////////////////////////////////////////////////////////////////
+//// instalacion y configuracion de nodejs y npm en linux (debian 9)/////////
+  modificar el archivo /etc/apt/sources.list y agregar las siguientes 2 lineas:
+ 
+    deb https://deb.nodesource.com/node_10.x stretch main
+    deb-src https://deb.nodesource.com/node_10.x stretch main
+    
+    NOTA: en las dos lineas anteriores el 10.x, el 10 lo puedes cambiar a la version mas actual de nodejs o la que necesites
+ 
+ luego ejecutamos el siguiente comando
+    
+    apt-get install nodejs npm
