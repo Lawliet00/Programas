@@ -18,7 +18,25 @@
     
 //// En caso de usar postgresSQL instalar tambien
       php7.2-pgsql
+      
+///////////////////////////////////////////////////////////////////////////////
+  instalar composer
   
+  Paso 1: Instalar CURL
+
+Antes que nada, debemos tener instalado curl en nuestro sistema, esto se hace escribiendo el siguiente comando en la consola:
+  sudo apt-get install curl
+  
+Paso 2: Instalar Composer de manera global
+
+Una vez instalado curl empezamos con la instalación de Composer, esto se hace, al igual que la instalación de curl, dentro de la consola, tenemos que escribir el siguiente comando:
+PHP
+curl -sS https://getcomposer.org/installer | php
+
+Esto hará que se descargue en nuestra carpeta home el archivo composer.phar el cuál tendría que ser llamado cada vez que queramos hacer uso de el, nosotros en este tutorial vamos a instalarlo de manera global para que Composer pueda ser llamado desde cualquier lugar sin importar la carpeta en la que nos encontremos, esto se hace pasando el archivo composer.phar a la carpeta /usr/local/bin y se hace con el siguiente comando:
+PHP
+sudo mv ~/composer.phar /usr/local/bin/composer
+
   
   
   
