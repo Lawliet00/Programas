@@ -10,3 +10,18 @@
  luego ejecutamos el siguiente comando
     
     apt-get install nodejs npm
+
+
+///////////////////////////////////////////////////////////////////////////////
+//// Instalación de php 7.2 en debian 9
+  https://www.jesusamieiro.com/instalar-php-7-2-en-debian-9/
+    
+//// En caso de usar postgresSQL instalar tambien
+      php7.2-pgsql
+  
+  
+  
+  
+  
+  
+  
