@@ -66,9 +66,25 @@ Update apt sources and install Sublime Text
 sudo apt-get update
 sudo apt-get install sublime-text
 
+/////////////////////////////////////////////////////////////////////////////////
+resolver error con pngquant de npm
+Debian / Ubuntu :
+sudo apt-get update
+sudo apt-get install build-essential
+npm install pngquant
+  
+  
+//////////////////////////////////////////////////////////////////////////////////
+ configurar Git:
+ Para configurar globalmente (para todos los repositorios )tu email y name añades --global
 
-  
-  
+git config --global user.email"tu@email.com"
+git config --global user.name"tunombre"
+
+y para hacerlo solo para un repositorio lo puedes hacer sin ese parámetro dentro del repositorio :
+
+git config user.email"tu@email.com"
+git config user.name"tunombre"
   
   
   
