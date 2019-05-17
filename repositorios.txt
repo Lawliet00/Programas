@@ -1,0 +1,20 @@
+#repositorios cenditel
+  deb http://debian.cenditel/debian/ stretch main contrib non-free
+  deb-src http://debian.cenditel/debian/ stretch main contrib non-free
+
+  deb http://debian.cenditel/debian/ stretch-updates main contrib non-free
+  deb-src http://debian.cenditel/debian/ stretch-updates main contrib non-free
+
+  deb http://debian.cenditel/debian-security/ stretch/updates main contrib non-free
+  deb-src http://debian.cenditel/debian-security/ stretch/updates main contrib non-free
+
+  deb http://debian.cenditel/debian-multimedia/ stretch main non-free
+  deb-src http://debian.cenditel/debian-multimedia/ stretch main non-free
+
+#repositorio de nodejs
+  deb https://deb.nodesource.com/node_10.x stretch main
+  deb-src https://deb.nodesource.com/node_10.x stretch main
+
+#repositio para telegram
+  deb http://ppa.launchpad.net/atareao/telegram/ubuntu xenial main
+  deb-src http://ppa.launchpad.net/atareao/telegram/ubuntu xenial main
