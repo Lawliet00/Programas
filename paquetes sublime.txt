@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"A File Icon",
+		"Acme Color Scheme",
+		"Active4D",
+		"All Autocomplete",
+		"AutoAligner",
+		"AutoFileName",
+		"ayu",
+		"BlackBird-ColorScheme",
+		"BracketHighlighter",
+		"Emmet",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"LiveReload",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
